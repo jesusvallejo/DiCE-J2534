@@ -8,4 +8,13 @@ If a later version is installed, the update will brick the device. If this was t
 There are two versions of the firmware 2.21.22 and 2.21.21. I have only tried 2.21.22.
 Program will be bundled in the release zip, for future reference in case the download page is not active any longer.
 
+You must make the SWD connections as show in the pictures.
+
+# Front
+![screenshot](front.jpg)
+# Back
+![screenshot](back.jpg)
+
+
+
 

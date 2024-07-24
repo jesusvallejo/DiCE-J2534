@@ -15,7 +15,7 @@ Program will be bundled in the release zip, for future reference in case the dow
 
 You must make the SWD connections as show in the pictures.
 
-In case you dont have drivers for
+The release: https://github.com/jesusvallejo/DiCE-J2534/releases/
 
 # Front
 ![screenshot](front.jpg)
